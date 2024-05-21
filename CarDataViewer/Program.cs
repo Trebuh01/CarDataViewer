@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace lab10
+namespace CarDataViewer
 {
     internal static class Program
     {

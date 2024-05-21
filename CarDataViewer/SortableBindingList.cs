@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Reflection;
 
-namespace lab10
+namespace CarDataViewer
 {
     public class SortableBindingList<T> : BindingList<T>
     {

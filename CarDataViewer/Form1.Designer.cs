@@ -1,6 +1,6 @@
 ﻿using System.Windows.Forms;
 
-namespace lab10
+namespace CarDataViewer
 {
     partial class Form1
     {

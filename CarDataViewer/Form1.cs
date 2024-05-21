@@ -5,7 +5,7 @@ using System.Linq;
 using System.Windows.Forms;
 
 
-namespace lab10
+namespace CarDataViewer
 {
     public partial class Form1 : Form
     {

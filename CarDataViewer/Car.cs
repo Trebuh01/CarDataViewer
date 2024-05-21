@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Xml.Serialization;
 
-namespace lab10
+namespace CarDataViewer
 {
     public class Car
     {
