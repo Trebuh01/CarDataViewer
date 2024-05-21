@@ -1,0 +1,10 @@
+C:\Users\ginko\OneDrive\Pulpit\Programowanko\studia\semestr 4\platformy technologiczne\lab10\lab10\lab10\obj\Debug\lab10.csproj.AssemblyReference.cache
+C:\Users\ginko\OneDrive\Pulpit\Programowanko\studia\semestr 4\platformy technologiczne\lab10\lab10\lab10\obj\Debug\lab10.Properties.Resources.resources
+C:\Users\ginko\OneDrive\Pulpit\Programowanko\studia\semestr 4\platformy technologiczne\lab10\lab10\lab10\obj\Debug\lab10.csproj.GenerateResource.cache
+C:\Users\ginko\OneDrive\Pulpit\Programowanko\studia\semestr 4\platformy technologiczne\lab10\lab10\lab10\obj\Debug\lab10.csproj.CoreCompileInputs.cache
+C:\Users\ginko\OneDrive\Pulpit\Programowanko\studia\semestr 4\platformy technologiczne\lab10\lab10\lab10\obj\Debug\lab10.Form1.resources
+C:\Users\ginko\OneDrive\Pulpit\Programowanko\studia\semestr 4\platformy technologiczne\lab10\lab10\lab10\bin\Debug\lab10.exe.config
+C:\Users\ginko\OneDrive\Pulpit\Programowanko\studia\semestr 4\platformy technologiczne\lab10\lab10\lab10\bin\Debug\lab10.exe
+C:\Users\ginko\OneDrive\Pulpit\Programowanko\studia\semestr 4\platformy technologiczne\lab10\lab10\lab10\bin\Debug\lab10.pdb
+C:\Users\ginko\OneDrive\Pulpit\Programowanko\studia\semestr 4\platformy technologiczne\lab10\lab10\lab10\obj\Debug\lab10.exe
+C:\Users\ginko\OneDrive\Pulpit\Programowanko\studia\semestr 4\platformy technologiczne\lab10\lab10\lab10\obj\Debug\lab10.pdb
