@@ -1,4 +1,4 @@
-CarInventoryManager is a Windows Forms application designed to manage a collection of cars. The application allows users to add, remove, edit, and search for cars in a grid view. It also supports sorting and filtering of car data based on various properties.
+CarDataViever is a Windows Forms application designed to manage a collection of cars. The application allows users to add, remove, edit, and search for cars in a grid view. It also supports sorting and filtering of car data based on various properties.
 
 ## Features
 
